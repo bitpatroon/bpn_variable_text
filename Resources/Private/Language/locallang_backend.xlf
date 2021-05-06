@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.0" standalone="yes">
+  <file source-language="en" datatype="plaintext" original="messages" data="2018-12-19T14-57-44" product-name="spl_domain">
+    <header/>
+    <body>
+      <trans-unit id="tx_bpnvariabletext_domain_model_variabletext" xml:space="preserve">
+        <source>Text labels for extensions</source>
+      </trans-unit>
+      <trans-unit id="tx_bpnvariabletext_domain_model_variabletext.label_name" xml:space="preserve">
+        <source>Label</source>
+      </trans-unit>
+      <trans-unit id="tx_bpnvariabletext_domain_model_variabletext.description" xml:space="preserve">
+        <source>Description</source>
+      </trans-unit>
+      <trans-unit id="tx_bpnvariabletext_domain_model_variabletext.plaintext" xml:space="preserve">
+        <source>Contents (plain text)</source>
+      </trans-unit>
+      <trans-unit id="tx_bpnvariabletext_domain_model_variabletext.html" xml:space="preserve">
+        <source>Contents (html)</source>
+      </trans-unit>
+      <trans-unit id="tx_bpnvariabletext_domain_model_variabletext.text_formatting" xml:space="preserve">
+        <source>Format</source>
+      </trans-unit>
+      <trans-unit id="tx_bpnvariabletext_domain_model_variabletext.text_formatting.I.1" xml:space="preserve">
+        <source>Plain-text</source>
+      </trans-unit>
+      <trans-unit id="tx_bpnvariabletext_domain_model_variabletext.text_formatting.I.2" xml:space="preserve">
+        <source>Html-text</source>
+      </trans-unit>
+      <trans-unit id="tx_bpnvariabletext_domain_model_variabletext.markers" xml:space="preserve">
+        <source>Markers</source>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

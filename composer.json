@@ -1,0 +1,34 @@
+{
+  "name": "bitpatroon/bpn_variable_text",
+  "type": "typo3-cms-extension",
+  "description": "System texts can be set as articles",
+  "keywords": [
+    "typo3",
+    "content",
+    "variable"
+  ],
+  "license": "GPL-2.0-or-later",
+  "authors": [
+    {
+      "name": "Sjoerd Zonneveld",
+      "homepage": "https://www.bitpatroon.nl",
+      "role": "Developer"
+    }
+  ],
+  "minimum-stability": "stable",
+  "require": {
+  },
+  "config": {
+    "optimize-autoloader": true
+  },
+  "autoload": {
+    "psr-4": {
+      "BPN\\BpnVariableText\\": "Classes"
+    }
+  },
+  "extra": {
+    "typo3/cms": {
+      "extension-key": "bpn_variable_text"
+    }
+  }
+}
