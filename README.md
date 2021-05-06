@@ -46,3 +46,8 @@ quis nisl faucibus pellentesque. Nunc quis [[test]] neque sit amet
 felis convallis content 1 faucibus vitae pellentesque ligula._
 
 
+## Thanks to
+Frans van der Veen.
+<br/>May the force be with you!
+
+Ported to TYPO3 10.4 by Sjoerd Zonneveld
