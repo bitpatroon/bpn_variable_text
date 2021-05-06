@@ -1,4 +1,6 @@
-# bpn_variable_textAllows to create variable texts in the system with a label.
+# bpn_variable_text
+
+Allows to create variable texts in the system with a label.
 
 ## Usage
 
